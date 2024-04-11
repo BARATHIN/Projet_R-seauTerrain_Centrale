@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Projet_Centrale.X
+PROJECTNAME=JSP
 
 # Active Configuration
 DEFAULTCONF=default
